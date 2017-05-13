@@ -4,7 +4,7 @@ upload.wikimedia.org:HSTS	0	17299	1526244730372,1,1
 a.lw.skype.com:HSTS	0	17215	1495225591510,1,0
 prod.registrar.skype.com:HSTS	0	17215	1518985597840,1,1
 api.skype.com:HSTS	0	17215	1518985592618,1,1
-services.addons.mozilla.org:HSTS	7	17276	1524186832764,1,0
+services.addons.mozilla.org:HSTS	8	17299	1526245161710,1,0
 www.mozilla.org:HSTS	0	17211	1518573239458,1,0
 pixel.facebook.com:HSTS	2	17236	1504815218644,1,0
 www.facebook.com:HSTS	6	17276	1508203601903,1,0
@@ -12,7 +12,8 @@ www.facebook.com:HSTS	6	17276	1508203601903,1,0
 stats.g.doubleclick.net:HSTS	4	17264	1502573168722,1,1
 static.asm.skype.com:HSTS	0	17215	1518985593272,1,1
 meta.wikimedia.org:HSTS	0	17299	1526244729937,1,1
-versioncheck-bg.addons.mozilla.org:HSTS	6	17276	1492651134080,1,0
+versioncheck-bg.addons.mozilla.org:HSTS	7	17299	1494709462893,1,0
+blocklist.addons.mozilla.org:HSTS	0	17299	1494709581505,1,0
 shavar.services.mozilla.com:HSTS	4	17299	1526244689673,1,1
 login.skype.com:HSTS	0	17215	1518985789010,1,1
 flagsapi.skype.com:HSTS	0	17215	1518985592721,1,0
