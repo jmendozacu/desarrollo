@@ -1,0 +1,44 @@
+[ 1494706736.425247]: IMSettings-Daemon[3070]: INFO: Starting imsettings-daemon...
+[ 1494706736.425338]: IMSettings-Daemon[3070]: INFO:   [HOME=/home/wmolina/.config/imsettings]
+[ 1494706736.425360]: IMSettings-Daemon[3070]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1494706736.425378]: IMSettings-Daemon[3070]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1494706736.425395]: IMSettings-Daemon[3070]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1494706736.425412]: IMSettings-Daemon[3070]: INFO:   [MODULES=gsettings]
+
+imsettings information
+==========================
+XINPUTRC: /etc/X11/xinit/xinput.d//none.conf
+	  Fichero: «/etc/X11/xinit/xinput.d//none.conf»
+	  Tamaño: 110       	Bloques: 8          Bloque E/S: 4096   fichero regular
+	Dispositivo: fd00h/64768d	Nodo-i: 1202523     Enlaces: 1
+	Acceso: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+	Contexto: system_u:object_r:bin_t:s0
+	      Acceso: 2017-05-13 14:18:56.350887220 -0600
+	Modificación: 2014-06-10 01:52:06.000000000 -0600
+	      Cambio: 2017-02-11 16:39:49.953119496 -0600
+	    Creación: -
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: yes
+Is Qt supported: no
+DESKTOP: gnome-classic
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-kOqhdBL1MI,guid=324102c321bcee258b78237e59176a30
+GTK_IM_MODULE: 
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+[ 1494706741.091862]: IMSettings-Daemon[3070]: INFO: Attempting to switch IM to none [lang=es_SV.UTF-8, update=false]
+org.gnome.settings-daemon.plugins.keyboard.active is true. imsettings is going to be disabled.
+
+[ 1494706741.546479]: IMSettings-Daemon[3070]: WARNING **: Current desktop isn't targeted by IMSettings.
+
+[ 1494706741.547324]: GLib-GIO[3070]: CRITICAL **: g_dbus_method_invocation_return_value_internal: assertion '(parameters == NULL) || g_variant_is_of_type (parameters, G_VARIANT_TYPE_TUPLE)' failed
+[ 1494706741.549321]: IMSettings-Daemon[3070]: INFO: Unloading imesttings module: gsettings
+[ 1494706741.549386]: IMSettings-Daemon[3070]: INFO: imsettings-daemon is shut down.
