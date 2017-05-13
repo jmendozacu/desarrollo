@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>City of Santa Ana</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Forum' rel='stylesheet' type='text/css'>
+    <link href="/css/lyon.css" rel='stylesheet' type='text/css'>
+    <link href="/css/flynn.css" rel="stylesheet" type="text/css" media="print">
+    <link href="/css/sark.css" rel="stylesheet" type="text/css" media="handheld">
+
+    
+    <link rel="stylesheet" href="/agile/agile_carousel.css" type='text/css'>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.js"></script>
+<script src="/agile/agile_carousel.alpha.js"></script>
+    <script src="/js/jsSlider.js"></script>
+
+    <script type="text/javascript">
+      $(function() {
+        InitCarousel("#flavor_1", "/agile/main_carousel.json");
+      });
+    </script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9771861-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+
+<!-- wrapper -->
+<div id="wrapper">
+
+  <!-- header -->
+  <div id="header-wrapper">
+    <!-- header-wrapper -->
+    <div id="header">
+      <!-- include file -->
+          <img id="logo" src="/images/city_seal_yellow.png" style="width: 96px;" alt="Return to the City of Santa Ana Homepage" />
+
+<!-- byline -->
+    <div id="byline">
+        <span>City of Santa Ana</span>
+        <span style="padding: 0 0 0 20px; font-size: 12px;">20 Civic Center Plaza, Santa Ana, CA 92701 - 714.647.5400</span>
+    </div>
+<!--/byline -->
+<!--/include file -->
+      
+    <!-- google-translate -->
+    
+<!-- added social media icons -->
+
+<span id="social-media"><a href="http://www.facebook.com/pages/City-of-Santa-Ana/200089073336831"><img height="25px" src="/images/social_media_facebook.png" style="border: none;" alt="Like us on Facebook!" /></a> <a href="https://twitter.com/CityofSantaAna"><img src="/images/social_media_twitter.png" height="25px" alt="Follow us on Twitter!"/></a> <a href="https://www.youtube.com/channel/UC9ZiF7bjOfewUC1ZSRnI39Q"><img src="/images/social_media_you_tube.png" height="25px" alt="Visit us on Youtube!"/></a> <a href="https://local.nixle.com/signup/widget/i/1745"><img src="/images/icon_nixle.jpg" style="height: 25px;" alt="Sign up for email alerts!" /></a></span>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <!--/google-translate -->
+    
+    </div>
+    <!--/header -->
+  </div>
+  <!--/header-wrapper -->
+  
+  <!-- carousel-wrapper -->
+  <div id="carousel-wrapper">
+    <!-- carousel -->
+    <div id="carousel">
+      <div class="slideshow" id="flavor_1"></div>
+    </div>
+    <!--/carousel -->
+  </div>
+  <!--/carousel-wrapper -->
+  
+  <!-- nav-wrapper -->
+  <!-- nav-wrapper -->
+<div id="nav-wrapper">
+    <!-- nav-container -->
+    <div id="nav-container">
+    	<!-- nav -->
+        <div id="nav">
+        	<ul id="menu">
+                <li><a href="/elected_officials/">Mayor / Council</a></li>
+                <li><a href="/cityhall/">Departments</a></li>
+                <li><a href="http://agency.governmentjobs.com/santaana/default.cfm">Employment</a></li>
+                <li><a href="/quicklinks/">Quick Links</a></li>
+                <li><a href="/help/">Help</a></li>
+            </ul>
+        </div>
+        <!--/nav -->
+        <!-- nav-search -->
+    	<div id="nav-search">
+
+<script>
+  (function() {
+    var cx = '010122398651560665338:3bflg9cj4-s';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+        </div>
+    	<!--/nav-search -->
+    
+    </div>
+    <!--/nav-container-->
+</div>
+<!--/nav-wrapper-->
+  <!--/nav-wrapper -->
+  
+  <!-- content-wrapper -->
+  <div id="content-wrapper" style="background-color: #f7f7f7;">
+    <!-- content -->
+    <div id="content">
+    
+      <!-- quarter box -->
+       <div class="quarterbox" style="border-top: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 2px solid #e6e6e6; border-bottom: 2px solid #e6e6e6; height: 590px;">
+          <h1 style="background-color: #f3c70e; color: #ffffff; text-shadow: 1px 1px rgb(160,160,160);"><span style="text-transform: lowercase;">e</span>-Services</h1>
+            <img src="/images/feature_box_banner_municipal_services.png" alt="Online Services" />
+          <div style="overflow: auto; height: 570px;">
+            <ul style="font-size: 12px; line-height: 14px; list-style: square;">
+              <li><a href="/maintenance/default.asp">Building Permit Submittal</a></li>
+              <li><a href="/businesstaxbillpay/">Business License Bill Pay</a></li>
+              <li><a href="/code-violation/">Code Enf. Complaint Submittal</a></li>
+              <li><a href="https://www.onlinebiller.com/santaana_quickpay/">Dog License Bill Pay</a></li>
+              <li><a href="https://permit.santa-ana.org/bldgInspections">Inspection Scheduling</a></li>     
+              <li><a href="/mus/">Municipal Utility Srvcs. Bill Pay</a></li>
+              <li><a href="/prepbillpay/">PREP Bill Pay</a></li>
+            </ul>
+            <a href="/socialmedia/">
+            <h2 style="color: #696969; font-size: 18px; font-weight: normal; line-height: 40px; text-align: center; text-transform: uppercase;">Social Media</h2>
+            <p style="text-align: center;">
+              <img src="/images/nixle.png" style="width: 44px;" />
+              <img src="/images/facebook.png" style="width: 44px;" />
+              <img src="/images/twitter.png" style="width: 44px;" />
+              <img src="/images/youtube.png" style="width: 44px;" />
+            </p></a>
+        </div>
+      </div>
+      <!-- quarter box -->
+
+      <!-- quarter box -->
+      <div class="quarterbox">
+      <a href="/residents/" style="width: 240px; height: 300px; text-decoration: none;">
+      <h1>Residents</h1>
+      <img src="/images/feature_box_banner_residents.png" alt="Resident Services" />
+      <div style="overflow: auto; height: 154px;">
+      <p>Stay informed, volunteer, or follow personal interests in recreation, arts and culture, economic opportunity, and public policy.</p>
+      </div>
+      </a>
+      </div>
+      <!-- quarter box -->
+        
+      <!-- quarter box -->
+        <div class="quarterbox">
+        <a href="/youth/" style="width: 240px; height: 300px; text-decoration: none;">
+        <h1>Youth</h1>
+        <img src="/images/feature_box_banner_youth.png" alt="Youth Services" />
+        <div style="overflow: auto; height: 154px;">
+        <p>Become involved in activities that support physical fitness, appreciation for art, cultural awareness and involvement in government.</p>
+        </div>
+        </a>
+        </div>
+        <!-- quarter box -->
+        
+      <!-- quarter box -->
+        <div class="quarterbox">
+    <a href="/business/" style="width: 240px; height: 300px; text-decoration: none;">
+          <h1>Business</h1>
+            <img src="/images/feature_box_banner_business.png" alt="Business Services" />
+          <div style="overflow: auto; height: 154px;">
+           <p>Find interactive maps, resources, incentives, loans, and important phone numbers at your fingertips.</p>
+        </div>
+    </a>
+      </div>
+        <!-- quarter box -->
+    
+    <!-- quarter box -->
+        <div class="quarterbox">
+    <a href="/opengov/" style="width: 240px; height: 300px; text-decoration: none;">
+          <h1>Open Government</h1>
+        <img src="/images/feature_box_open_government.png" alt="Open Government" />
+        <div style="overflow: auto; height: 154px;">
+          <p>The City of Santa Ana is committed to providing public access to local government.</p>
+        </div>
+            </a>
+        </div> 
+        <!-- quarter box -->
+    
+    <!-- quarter box -->
+        <div class="quarterbox">
+    <a href="/news/" style="width: 240px; height: 300px; text-decoration: none;">
+    <h1>News &amp; Spotlight</h1>
+        <img src="/images/feature_box_news.png" alt="News Releases" />
+        <div style="overflow: auto; height: 154px;">
+          <p>View the latest news &amp; press releases.
+          	<ul style="font-size: 90%;">
+				<li>
+          <a href="/pwa/ocstreetcar.asp">OC Streetcar Update</a><br />
+          <img src="/images/oc_streetcar_logo.png" style="width: 150px;">
+        </li>
+			</ul>
+        </div>
+        </a></div>
+        <!-- quarter box -->
+        
+         <!-- quarter box -->
+        <div class="quarterbox" style="border-top: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 2px solid #e6e6e6; border-bottom: 2px solid #e6e6e6;">
+          <h1 style="background-color: #f3c70e; color: #ffffff; text-shadow: 1px 1px rgb(160,160,160);">Upcoming Events</h1>
+            <div style="overflow: hidden; height: 245px">
+              <html>
+	<head>
+		<title>Upcoming Events</title>
+		<style>
+			#upcoming-events li { font-size: 75%; line-height: 125%; margin: 0 0 10px 0; padding: 0; } 
+		</style>
+	</head>
+	<body>
+		<div id="upcoming-events">
+		  <ul>
+		    <li><strong><a href="http://dtsafarmersmarket.com/">Downtown Santa Ana<br>
+Farmers' Market</a></strong><br />
+Sunday 5/14 - 10:00am - 2:00pm</li>
+		    <li><strong><a href="/coc/granicus.asp">City Council Meeting</a></strong><br />
+Tuesday 5/16 - 5:45pm</li>
+		    <li><strong><a href="http://www.downtown-santaana.com/artwalk/"><a href="https://www.facebook.com/events/1219709111445860/">Santa Ana Police Department Open House</strong></a><br>
+		    Saturday 5/20 - 11:00am - 2:00pm</li>
+		    <li><strong><a href="http://www.downtown-santaana.com/artwalk/">First Saturday Artwalk</a></strong><br />
+Saturday 6/3 - 6:00pm</li>
+		    <li><a href="/todo/">See all calendar items</a></li>
+		  </ul>
+
+	</div>
+</body>
+</html> 
+            </div>
+        </div>
+        <!-- quarter box -->
+    </div>
+
+    <div style="clear: both; width: 100%;">&nbsp;</div>
+    </div>
+    <!--/content -->
+  </div>
+  <!--/content-wrapper -->
+  
+  <!-- footer-wrapper -->
+  <div id="footer-wrapper">
+    <!-- footer -->
+    <div id="footer">&copy; 2017 City of Santa Ana, 20 Civic Center Plaza, Santa Ana, CA, 92701 - 714.647.5400 - <a href="/socialmedia/">City Social Media</a></div>
+    <!-- footer -->
+</div>
+  <!--/footer-wrapper -->
+
+</div>
+<!--/wrapper -->
+
+</body>
+</html>
+~*HÌÌÛ      Yq›Yqﬂ=¿ÍÇ           :http://www.ci.santa-ana.ca.us/ necko:classified 1 request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 11487
+Content-Type: text/html
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Sat, 13 May 2017 20:51:41 GMT
+ charset windows-1252 uncompressed-len 0 predictor::resource-count 55 predictor::http://fonts.googleapis.com/css?family=Forum 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/css/lyon.css 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/css/flynn.css 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/css/sark.css 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/agile/agile_carousel.css 1,1,1494708701,0 predictor::http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.js 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/agile/agile_carousel.alpha.js 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/js/jsSlider.js 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/city_seal_yellow.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/social_media_facebook.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/social_media_twitter.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/social_media_you_tube.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/icon_nixle.jpg 1,1,1494708701,0 predictor::http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/feature_box_banner_municipal_services.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/nixle.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/facebook.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/twitter.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/youtube.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/feature_box_banner_residents.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/feature_box_banner_youth.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/feature_box_banner_business.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/feature_box_open_government.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/feature_box_news.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/oc_streetcar_logo.png 1,1,1494708701,0 predictor::https://fonts.googleapis.com/css?family=Montaga|Lato:300|Forum|Montserrat 1,1,1494708701,0 predictor::http://www.google-analytics.com/ga.js 1,1,1494708701,0 predictor::https://translate.googleapis.com/translate_static/css/translateelement.css 1,1,1494708701,0 predictor::https://translate.googleapis.com/translate_static/js/element/main.js 1,1,1494708701,0 predictor::http://www.google.com/cse/cse.js?cx=010122398651560665338:3bflg9cj4-s 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/bg_nav.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/feature_box_header_bg.png 1,1,1494708701,0 predictor::https://fonts.gstatic.com/s/montaga/v4/DlQ9Ikv09mwGQdyRKUBTtg.woff2 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/banners/banner_strategic_plan_3.jpg 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/banners/20160721_shop_local.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/banners/2017-2018_community_budget_outreach_meetings.png 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/banner_city_council_streaming_archive.png 1,1,1494708701,0 predictor::https://translate.googleapis.com/element/TE_20170501_01/e/js/element/element_main.js 1,1,1494708701,0 predictor::http://www.ci.santa-ana.ca.us/images/sprite_ac_normal.png 1,1,1494708701,0 predictor::https://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A%221.0%22%2C%22callback%22%3A%22__gcse.scb%22%2C%22style%22%3A%22https%3A%2F%2Fwww.google.com%2Fcse%2Fstatic%2Fstyle%2Flook%2Fv2%2Fdefault.css%22%2C%22language%22%3A%22en%22%7D%5D%7D 1,1,1494708701,0 predictor::https://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.css 1,1,1494708701,0 predictor::https://www.google.com/cse/static/style/look/v2/default.css 1,1,1494708701,0 predictor::https://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.I.js 1,1,1494708701,0 predictor::https://www.gstatic.com/images/branding/product/1x/translate_24dp.png 1,1,1494708701,0 predictor::https://translate.googleapis.com/translate_a/l?client=te&alpha=true&hl=en&cb=_callbacks____0j2nqywhq 1,1,1494708701,0 predictor::https://www.google.com/images/cleardot.gif 1,1,1494708701,0 predictor::https://www.gstatic.com/images/branding/product/2x/translate_24dp.png 1,1,1494708701,0 predictor::https://www.googleapis.com/generate_204 1,1,1494708701,0 predictor::https://translate.googleapis.com/translate_static/img/te_ctrl3.gif 1,1,1494708701,0 predictor::http://cse.google.com/adsense/search/async-ads.js 1,1,1494708701,0 predictor::http://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png 1,1,1494708701,0 predictor::https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png 1,1,1494708701,0 predictor::https://www.google.com/uds/css/v2/search_box_icon.png 1,1,1494708701,0 predictor::https://www.google.com/uds/css/v2/clear.png 1,1,1494708701,0 predictor::http://clients1.google.com/generate_204 1,1,1494708701,0   ,ﬂ
